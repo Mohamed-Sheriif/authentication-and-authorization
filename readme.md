@@ -27,8 +27,8 @@ This project is a Node.js Express server that provides robust user authenticatio
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone git@github.com:Mohamed-Sheriif/authentication-and-authorization.git
+   cd authentication-and-authorization
    ```
 
 2. Install dependencies:
